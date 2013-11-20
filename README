@@ -1,0 +1,11 @@
+WaveRaider
+==========
+by: Ian Llewellyn
+
+Thanks to the info on:
+https://ccrma.stanford.edu/courses/422/projects/WaveFormat/, I was able to
+create this small python script to analyse WAVE files. It's not very smart at
+the moment, but it's a start...
+
+Usage:
+./waveraider.py <audio_file.wav>
