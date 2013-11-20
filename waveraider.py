@@ -6,8 +6,6 @@ if len(sys.argv) == 1:
     sys.exit(os.EX_USAGE)
 
 in_file = sys.argv[1]
-#in_file = '/home/ian/06/06/rec_13-38-37.wav'
-#in_file = '/home/ian/06/28/rec_14-57-24.wav'
 
 wave_format = [
     {
