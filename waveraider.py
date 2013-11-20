@@ -87,7 +87,6 @@ with file(in_file) as in_file:
             data = value_data(data)
         print item['field_size'], item['name'], data.__repr__()
 
-    import time
     while 1:
         data = in_file.read(2)
         if not data:
